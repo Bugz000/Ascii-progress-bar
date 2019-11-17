@@ -1,3 +1,5 @@
+msgbox % progressbar(100, 87, 100)
+
 ;____Usage___
 ;ProgressBar(Length, Current, Max, Unlock = 0)
 ;Unlock unlocks the length of the line

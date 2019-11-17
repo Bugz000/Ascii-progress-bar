@@ -1,4 +1,4 @@
-<a href="Bugz000.co.uk"><img src="https://i.imgur.com/skjyWiv.png" title="Bugz000.co.uk" alt="Bugz000.co.uk"></a>
+<a href="Bugz000.co.uk"><img src="https://i.imgur.com/AR5fwsU.png" title="Bugz000.co.uk" alt="Bugz000.co.uk"></a>
 
 # AHK progress bar
 
@@ -6,8 +6,6 @@
 
 
 ## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Features](#features)
