@@ -5,7 +5,7 @@
 > creates an ascii progress bar.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
