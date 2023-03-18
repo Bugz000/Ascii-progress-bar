@@ -45,7 +45,7 @@ Reach out to me at;
 
 ## About me
 
-father to my son, Hunter, and with my beautiful wife and fantastic mother, Kaylin, living in the UK, avid hobbyist!
+father to my son, Hunter, living in the UK, avid hobbyist!
 
 enjoying all aspects of life, photography, archery, motorcycling, aquariums, astronomy, and ofcourse, computers!
 
